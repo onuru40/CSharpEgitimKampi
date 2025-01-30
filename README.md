@@ -13,3 +13,7 @@
 ✨ Proje 7 : Foreach döngü konusunu tamamladım. Pekiştirip pratik yaptım.
 
 ✨ Proje 8 : Metotlar konusunu tamamlayıp tekrar etmiş oldum. Örneklerle iyi bir pratik yaptım.
+
+✨ Proje 9 : SqlConnection ve SqlCommand sınıflarını kullanarak sorguları çalıştırmayı pekiştirdim. Uygulama geliştirdim.
+
+✨ Proje 10 : CRUD işlemlerini gerçekleştiren Menü Sipariş Yönetim Paneli yaptım.
